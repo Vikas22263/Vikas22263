@@ -13,10 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas22263&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikas22263&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikas22263&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=vikas22263&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vikas22263&icon=2&color=1)](https://visitcount.itsvg.in)
