@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm vikas Patel</h1>
 <h3 align="center">MERN Stack Developer with Expertise in React, Node.js, MongoDB, SQL, and Express</h3>
 
