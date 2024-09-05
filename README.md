@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on filmo<br><br>🌱 I’m currently learning web 3,redis,,next.js<br><br>📫 How to reach me vikash22263@gmail.com
+🔭 I’m currently working on filmo<br><br>🌱 I’m currently learning web.3,redis,next.js<br><br>📫 How to reach me vikash22263@gmail.com
 
 
 ## 🌐 Socials:
